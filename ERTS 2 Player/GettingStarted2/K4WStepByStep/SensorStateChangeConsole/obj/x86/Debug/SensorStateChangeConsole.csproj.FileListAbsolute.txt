@@ -1,0 +1,10 @@
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\SensorStateChangeConsole\bin\Debug\SensorStateChangeConsole.exe
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\SensorStateChangeConsole\bin\Debug\SensorStateChangeConsole.pdb
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\SensorStateChangeConsole\obj\x86\Debug\SensorStateChangeConsole.csprojResolveAssemblyReference.cache
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\SensorStateChangeConsole\obj\x86\Debug\SensorStateChangeConsole.exe
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\SensorStateChangeConsole\obj\x86\Debug\SensorStateChangeConsole.pdb
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\SensorStateChangeConsole\bin\Debug\SensorStateChangeConsole.exe
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\SensorStateChangeConsole\bin\Debug\SensorStateChangeConsole.pdb
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\SensorStateChangeConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\SensorStateChangeConsole\obj\x86\Debug\SensorStateChangeConsole.exe
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\SensorStateChangeConsole\obj\x86\Debug\SensorStateChangeConsole.pdb

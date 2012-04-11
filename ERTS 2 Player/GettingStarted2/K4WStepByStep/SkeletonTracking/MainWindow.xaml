@@ -1,0 +1,21 @@
+﻿<Window x:Class="SkeletonTracking.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Skeleton Tracking Demo" Height="421" Width="849">
+    <Canvas Height="321">
+        <Label Name="xlabel" FontWeight="Bold" HorizontalContentAlignment="Center" HorizontalAlignment="Center" FontSize="24" Content="-" Canvas.Left="199" Canvas.Top="146" Height="70" Width="242"> </Label>
+        <Label Name="ylabel" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Foreground ="Black" FontSize="18" Content="-" Canvas.Left="199" Canvas.Top="206" Height="70" Width="242"></Label>
+        <Label Name="zlabel" FontWeight="Bold" HorizontalContentAlignment="Center" HorizontalAlignment="Center" FontSize="24" Content="Gesture :" Canvas.Left="14" Canvas.Top="146" Height="70" Width="242"></Label>
+        <Label Name="plabel" HorizontalContentAlignment="Center" HorizontalAlignment="Center" FontSize="18" Content="Zigbee : " Canvas.Left="30" Canvas.Top="206" Height="70" Width="242"></Label>
+        <Button Canvas.Left="347" Click="button1_Click" Canvas.Top="274" Content="Exit" Foreground="White" Background="DarkRed" FontSize="20" FontWeight="Bold" Height="35" Name="button1" Width="138" />
+        <Label Canvas.Left="162" Content="Kinecsterel Project" HorizontalContentAlignment="Center" Canvas.Top="-47" FontWeight="ExtraBold" Foreground="Blue" FontSize="36" Height="67" Name="label1" Width="503" />
+        <Label Canvas.Left="-41" Canvas.Top="98" Content="Player 1" FontSize="28" FontWeight="ExtraBold" Foreground="Blue" Height="67" HorizontalContentAlignment="Center" Name="label2" Width="503" />
+        <Label Canvas.Left="347" Canvas.Top="98" Content="Player 2" FontSize="28" FontWeight="ExtraBold" Foreground="Blue" Height="67" HorizontalContentAlignment="Center" Name="label3" Width="503" />
+        <Label Canvas.Left="562" Canvas.Top="146" Content="-" FontSize="24" FontWeight="Bold" Height="70" HorizontalContentAlignment="Center" Name="xlabel2" Width="242" />
+        <Label Canvas.Left="562" Canvas.Top="206" Content="-" FontSize="18" Foreground="Black" Height="70" HorizontalContentAlignment="Center" Name="ylabel2" Width="242" />
+        <Label Canvas.Left="377" Canvas.Top="146" Content="Gesture :" FontSize="24" FontWeight="Bold" Height="70" HorizontalContentAlignment="Center" Name="label6" Width="242" />
+        <Label Canvas.Left="388" Canvas.Top="206" Content="Zigbee : " FontSize="18" Height="70" HorizontalContentAlignment="Center" Name="label7" Width="242" />
+        <Label Canvas.Left="102" Canvas.Top="43" Content="Num of Players : " FontSize="18" FontWeight="ExtraBold"  Height="67" HorizontalContentAlignment="Center" Name="label4" Width="503" />
+        <Label Canvas.Left="331" Canvas.Top="37" Content="-" FontSize="24" FontWeight="Bold" Foreground ="Red" Height="70" HorizontalContentAlignment="Center" Name="numplayers" Width="242" />
+    </Canvas>
+</Window>

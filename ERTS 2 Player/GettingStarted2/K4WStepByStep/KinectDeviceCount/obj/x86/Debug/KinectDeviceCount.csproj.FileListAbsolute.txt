@@ -1,0 +1,38 @@
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\bin\Debug\KinectDeviceCount.exe
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\bin\Debug\KinectDeviceCount.pdb
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.csprojResolveAssemblyReference.cache
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\MainWindow.baml
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\MainWindow.g.cs
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\App.g.cs
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount_MarkupCompile.cache
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.g.resources
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.Properties.Resources.resources
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.csproj.GenerateResource.Cache
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.exe
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.pdb
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\bin\Debug\KinectDeviceCount.exe
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\bin\Debug\KinectDeviceCount.pdb
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\MainWindow.baml
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\App.g.cs
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount_MarkupCompile.cache
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.g.resources
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.Properties.Resources.resources
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.exe
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.pdb
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\bin\Debug\KinectDeviceCount.exe
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\bin\Debug\KinectDeviceCount.pdb
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\MainWindow.baml
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\App.g.cs
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount_MarkupCompile.cache
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.g.resources
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.Properties.Resources.resources
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.exe
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\KinectDeviceCount\obj\x86\Debug\KinectDeviceCount.pdb
