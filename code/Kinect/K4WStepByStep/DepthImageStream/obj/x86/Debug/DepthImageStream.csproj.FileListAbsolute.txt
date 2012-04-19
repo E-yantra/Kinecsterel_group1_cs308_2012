@@ -1,0 +1,51 @@
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\bin\Debug\DepthImageStream.exe
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\bin\Debug\DepthImageStream.pdb
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.csprojResolveAssemblyReference.cache
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\MainWindow.baml
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\MainWindow.g.cs
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\App.g.cs
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream_MarkupCompile.cache
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.g.resources
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.Properties.Resources.resources
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.csproj.GenerateResource.Cache
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.exe
+D:\IIT Talks\Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.pdb
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\bin\Debug\DepthImageStream.exe
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\bin\Debug\DepthImageStream.pdb
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\MainWindow.baml
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\App.g.cs
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream_MarkupCompile.cache
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.g.resources
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.Properties.Resources.resources
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.exe
+C:\Users\Godfather\Documents\Visual Studio 2010\Projects\Kinect Demo\GettingStarted\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.pdb
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\bin\Debug\DepthImageStream.exe
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\bin\Debug\DepthImageStream.pdb
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\MainWindow.baml
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\App.g.cs
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream_MarkupCompile.cache
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.g.resources
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.Properties.Resources.resources
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.exe
+C:\Users\Godfather\Desktop\ERTS New\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.pdb
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\bin\Debug\DepthImageStream.exe
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\bin\Debug\DepthImageStream.pdb
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\MainWindow.baml
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\App.g.cs
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream_MarkupCompile.cache
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.g.resources
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.Properties.Resources.resources
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.exe
+C:\Users\Godfather\Desktop\desktop\ERTS 2 Player\GettingStarted2\K4WStepByStep\DepthImageStream\obj\x86\Debug\DepthImageStream.pdb

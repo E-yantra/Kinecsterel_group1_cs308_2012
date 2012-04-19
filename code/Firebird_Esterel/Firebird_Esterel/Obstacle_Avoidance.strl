@@ -1,0 +1,47 @@
+module Obstacle_Avoidance:
+	input KINECT:integer;
+	output MOVE_FWD,MOVE_REV,MOTOR_LEFT_SPEED:integer,MOTOR_RIGHT_SPEED:integer;
+	loop
+		[await KINECT];
+		var fir:integer in
+			fir:=?KINECT;
+			
+			if fir = 1 then
+				emit MOVE_FWD;
+				emit MOTOR_LEFT_SPEED(150);
+				emit MOTOR_RIGHT_SPEED(150);				
+				
+			elsif fir = 2 then
+				emit MOVE_FWD;
+				emit MOTOR_LEFT_SPEED(130);
+				emit MOTOR_RIGHT_SPEED(0);				
+				
+			elsif fir = 3 then
+				emit MOVE_FWD;
+				emit MOTOR_LEFT_SPEED(0);
+				emit MOTOR_RIGHT_SPEED(130);				
+				
+			elsif fir = 4 then
+				emit MOVE_REV;
+				emit MOTOR_LEFT_SPEED(150);
+				emit MOTOR_RIGHT_SPEED(150);				
+				
+			elsif fir = 5 then
+				emit MOVE_FWD;
+				emit MOTOR_LEFT_SPEED(150);
+				emit MOTOR_RIGHT_SPEED(70);				
+				
+			elsif fir = 6 then
+				emit MOVE_FWD;
+				emit MOTOR_LEFT_SPEED(70);
+				emit MOTOR_RIGHT_SPEED(150);
+			
+			elsif fir = 7 then
+				emit MOVE_FWD;
+				emit MOTOR_LEFT_SPEED(0);
+				emit MOTOR_RIGHT_SPEED(0);	
+				
+			end;	
+		end var;
+	end
+end module
