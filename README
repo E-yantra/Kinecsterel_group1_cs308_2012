@@ -38,14 +38,14 @@ Technologies Used
 +   Embedded C
 +   Xbee
 +   Kinect   
-+   Esterel
++	Esterel
 
 Installation Instructions
 =========================
 
 + [Microsoft Visual Studio Express 2010](http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-csharp-express)
 + [Microsoft Kinect SDK](http://www.microsoft.com/download/en/details.aspx?id=28782)
-
++ [Youtube tutorial](http://www.youtube.com/watch?v=G5ywya81jPw)
 
 References
 ===========
